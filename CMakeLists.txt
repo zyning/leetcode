@@ -12,3 +12,6 @@ add_executable(split_array 410.cpp)
 
 # Add executable for 797.cpp
 add_executable(all_paths_source_target 797.cpp)
+
+# Add executable for 17.cpp
+add_executable(letter_combinations 17.cpp)
